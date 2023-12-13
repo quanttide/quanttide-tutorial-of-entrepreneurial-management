@@ -1,6 +1,6 @@
 # SUMMARY
 
-* [序言](README.md)
+* [序言](index.md)
 * [第一部分 准备工作](part1/README.md)
   * [第一章 注册公司](part1/chap1/README.md)
     * [1.1 注册准备](part1/chap1/1_1.md)
